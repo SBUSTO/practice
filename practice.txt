@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <h1>hi</h1>
+    <h3>my name is Sam</h3>
+    <h2>i do NOT like green eggs and ham but i do like this movie</h2>
+    <button>click here for more info about me</button>
+</head>
+<body>
+    
+</body>
+</html>
